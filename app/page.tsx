@@ -179,7 +179,7 @@ export default function Component() {
               <div className="grid gap-12 md:grid-cols-2">
                 <div className="space-y-6">
                   <p className="text-xl text-gray-200">
-                    We're here to help you unlock the full potential of your data. Get in touch with us for any inquiries or to schedule a consultation.
+                    We&aposre here to help you unlock the full potential of your data. Get in touch with us for any inquiries or to schedule a consultation.
                   </p>
                   <div className="space-y-4">
                     <div className="flex items-center space-x-3">
