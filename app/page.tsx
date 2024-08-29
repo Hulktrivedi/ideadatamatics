@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Database, Globe, Menu, X, Users, Lightbulb, Target, Mail, Phone, MapPin, Cpu, Cloud, Shield } from "lucide-react"
-
+/* eslint-disable react/no-unescaped-entities */
 export default function Component() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [currentPage, setCurrentPage] = useState('home')
