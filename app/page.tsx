@@ -185,15 +185,15 @@ export default function Component() {
                   <div className="space-y-4">
                     <div className="flex items-center space-x-3">
                       <Mail className="w-6 h-6 text-teal-300" />
-                      <span className="text-gray-200">info@ideadatamatics.com</span>
+                      <span className="text-gray-200">ideadatamatics@gmail.com</span>
                     </div>
                     <div className="flex items-center space-x-3">
                       <Phone className="w-6 h-6 text-teal-300" />
-                      <span className="text-gray-200">+1 (555) 123-4567</span>
+                      <span className="text-gray-200">+91 74360 73155</span>
                     </div>
                     <div className="flex items-center space-x-3">
                       <MapPin className="w-6 h-6 text-teal-300" />
-                      <span className="text-gray-200">123 Data Street, Analytics City, 12345</span>
+                      <span className="text-gray-200">A-202 Titanium City Center, Nr. Sachin Tower, 100ft Road, Anand Nagar Ahmedabad -380015</span>
                     </div>
                   </div>
                 </div>
